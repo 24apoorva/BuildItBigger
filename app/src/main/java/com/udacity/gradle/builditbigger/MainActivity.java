@@ -11,6 +11,7 @@ import android.view.View;
 import com.example.android.jokedisplaylib.JokeActivity;
 
 public class MainActivity extends AppCompatActivity {
+    public static final String TAG = "MainActivity";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
